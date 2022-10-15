@@ -12,7 +12,6 @@ import random
 import os
 
 client = Client()
-TOKEN = "OTI1MTE2NDMyNjk2NjEwODI3.Ycob0Q.G_KVvlH5pB0FEZFbFCeT9MbQcfI"
 
 @client.event
 async def on_ready():
