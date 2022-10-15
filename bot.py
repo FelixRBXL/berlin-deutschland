@@ -43,8 +43,7 @@ async def on_voice_state_update(member, before, after):
                 return
             else:
                 return
-               
-                
+                        
 #####################################################################################################################
 
 @client.slash_command(name="help", description="Shows you a panel, which contains every command.")
